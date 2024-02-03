@@ -17,8 +17,7 @@
 
 <div align = right> <br><br>
 
-[<kbd> <br> 🡅 <br> </kbd>](#-design-by-t2)
-</div>
+https://github.com/ALEX5402/Arch-Hyprland-setup/assets/76860596/e13eb35d-eb2f-42c7-93b8-17037927ddba
 
 # Dotfiles
  my personal hyprland setup
