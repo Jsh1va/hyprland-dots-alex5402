@@ -15,8 +15,6 @@
     <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_3.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_4.png" />
 </p>
 
-https://raw.githubusercontent.com/ALEX5402/Arch-Hyprland-setup/main/demo
-
 <div align = right> <br><br>
 
 [<kbd> <br> 🡅 <br> </kbd>](#-design-by-t2)
