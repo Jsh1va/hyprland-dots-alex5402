@@ -11,7 +11,7 @@
 <br><br><br><br></div>
 
 
-<https://user-images.githubusercontent.com/106020512/235429801-e8b8dae2-c1ad-4e23-9aa2-b1edb6cabe99.mp4>
+<https://raw.githubusercontent.com/ALEX5402/Arch-Hyprland-setup/main/demo.mp4>
 
 <p align="center">
     <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_1.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_2.png" />
