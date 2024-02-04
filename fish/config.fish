@@ -123,6 +123,9 @@ if not test -x /usr/bin/yay; and test -x /usr/bin/paru
     alias yay 'paru'
 end
 
+#!/bin/sh
+# alias code 'code --enable-features=UseOzonePlatform --ozone-platform=wayland'
+#
 
 # Common use
 alias install 'paru -S'
