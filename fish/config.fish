@@ -127,8 +127,9 @@ end
 # Common use
 alias install 'paru -S'
 alias remove 'paru -R'
-alias update 'sudo pacman -Syyu'
-alias studio 'QT_QPA_PLATFORM=xcb _JAVA_AWT_WM_NONREPARENTING=1 QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=kvantum android-studio'
+alias update 'sudo pacman -Syu'
+alias studio 'QT_QPA_PLATFORM=xcb android-studio'
+alias vim 'nvim'
 
 
 alias wayshere 'sudo mount --bind ~/Androidshere ~/.local/share/waydroid/data/media/0/Documents'
@@ -163,10 +164,10 @@ alias staccer 'QT_QPA_PLATFORM=xcb stacer'
 alias remove-force 'sudo pacman -Rnsdd'
 
 # Get fastest mirrors
-alias mirror 'sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist'
-alias mirrora 'sudo reflector --latest 50 --number 20 --sort age --save /etc/pacman.d/mirrorlist'
-alias mirrord 'sudo reflector --latest 50 --number 20 --sort delay --save /etc/pacman.d/mirrorlist'
-alias mirrors 'sudo reflector --latest 50 --number 20 --sort score --save /etc/pacman.d/mirrorlist'
+alias mirror-update 'sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist'
+alias mirror-age 'sudo reflector --latest 50 --number 20 --sort age --save /etc/pacman.d/mirrorlist'
+alias mirror-delay 'sudo reflector --latest 50 --number 20 --sort delay --save /etc/pacman.d/mirrorlist'
+alias mirrors-score 'sudo reflector --latest 50 --number 20 --sort score --save /etc/pacman.d/mirrorlist'
 
 alias please 'sudo'
 alias helpme 'echo "To print basic information about a command use tldr <command>"'
