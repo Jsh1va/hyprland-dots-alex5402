@@ -1,4 +1,4 @@
-1|Catppuccin-Mocha|Catppuccin.catppuccin-vsc~Catppuccin Mocha|~/.config/swww/Catppuccin-Mocha/finalizer.png
+1|Catppuccin-Mocha|Catppuccin.catppuccin-vsc~Catppuccin Mocha|~/.config/swww/Catppuccin-Mocha/wall_anime_4K.png
 0|Catppuccin-Latte|Catppuccin.catppuccin-vsc~Catppuccin Latte|~/.config/swww/Catppuccin-Latte/jormungandr.jpg
 0|Decay-Green|decaycs.decay~Decayce|~/.config/swww/Decay-Green/424363.jpg
 0|Rose-Pine|mvllow.rose-pine~Rosé Pine|~/.config/swww/Rose-Pine/japan_tower_pink.jpg
