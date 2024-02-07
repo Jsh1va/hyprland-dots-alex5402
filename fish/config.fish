@@ -25,6 +25,7 @@ end
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
+set -gx PATH /home/alex/120GB/sdk-tools/ndk/25.1.8937393 $PATH
 
 # Add ~/.local/bin to PATH
 if test -d ~/.local/bin
@@ -45,6 +46,7 @@ end
 if status --is-interactive
    source ("/usr/bin/starship" init fish --print-full-init | psub)
 end
+
 
 
 ## Advanced command-not-found hook
