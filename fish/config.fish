@@ -136,7 +136,7 @@ alias update 'sudo pacman -Syu'
 alias studio 'QT_QPA_PLATFORM=xcb android-studio'
 alias vim 'nvim'
 
-
+alias print-fingerprint-jar 'keytool -printcert -jarfile'
 alias wayshere 'sudo mount --bind ~/Androidshere ~/.local/share/waydroid/data/media/0/Documents'
 alias waystart './waydroid.sh'
 alias sex 'neofetch'
