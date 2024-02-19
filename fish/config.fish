@@ -125,11 +125,16 @@ if not test -x /usr/bin/yay; and test -x /usr/bin/paru
     alias yay 'paru'
 end
 
-#!/bin/sh
-# alias code 'code --enable-features=UseOzonePlatform --ozone-platform=wayland'
-#
+
 
 # Common use
+alias code 'code --ozone-platform=wayland --disable-features=WaylandFractionalScaleV1'
+alias vesktop 'vesktop --enable-features=UseOzonePlatform --ozone-platform=wayland'
+alias discord 'vesktop --enable-features=UseOzonePlatform --ozone-platform=wayland'
+alias youtube-music 'youtube-music --enable-features=UseOzonePlatform --ozone-platform=wayland'
+alias github 'github-desktop --enable-features=UseOzonePlatform --ozone-platform=wayland'
+alias github-desktop 'github-desktop --enable-features=UseOzonePlatform --ozone-platform=wayland'
+
 alias install 'paru -S'
 alias remove 'paru -R'
 alias update 'sudo pacman -Syu'
