@@ -1,4 +1,4 @@
-1|Catppuccin-Mocha|Catppuccin.catppuccin-vsc~Catppuccin Mocha|~/.config/swww/Catppuccin-Mocha/424363.jpg
+1|Catppuccin-Mocha|Catppuccin.catppuccin-vsc~Catppuccin Mocha|~/.config/swww/Catppuccin-Mocha/limbo.jpg
 0|Catppuccin-Latte|Catppuccin.catppuccin-vsc~Catppuccin Latte|~/.config/swww/Catppuccin-Latte/reindeer_forest.jpg
 0|Decay-Green|decaycs.decay~Decayce|~/.config/swww/Decay-Green/424363.jpg
 0|Rose-Pine|mvllow.rose-pine~Rosé Pine|~/.config/swww/Rose-Pine/ferris_wheel.jpg
