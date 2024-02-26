@@ -7,10 +7,6 @@
 
 [![HERE is a Demo video how it Looks](https://0x0.st/HDds.mp4)](https://0x0.st/HDds.mp4)
 
-   <video width="100%" controls>
-  <source src="https://0x0.st/HDds.mp4" type="video/mp4">
-   </video>
-
 
 # Dotfiles
  my personal hyprland setup inspired from [This Files](https://github.com/prasanthrangan/hyprdots)
