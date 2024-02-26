@@ -4,7 +4,10 @@
     <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_3.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_4.png" />
 </p>
 
-https://0x0.st/HDds.mp4
+
+[![demo](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_4.)](https://0x0.st/HDds.mp4)
+
+
 
 # Dotfiles
  my personal hyprland setup inspired from [This Files](https://github.com/prasanthrangan/hyprdots)
