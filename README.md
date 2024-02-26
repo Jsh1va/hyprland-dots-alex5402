@@ -5,7 +5,7 @@
 </p>
 
 
-[![demo](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_4.)](https://0x0.st/HDds.mp4)
+[![HERE is a Demo video how it Looks](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_4.)](https://0x0.st/HDds.mp4)
 
 
 
