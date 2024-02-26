@@ -2,14 +2,14 @@
 <p align="center">
     <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_1.png" /> <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_2.png" />
     <img align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_3.png" /> <video align="center" width="49%" src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/showcase_4.png" />
-    <video width="100%" controls>
-  <source src="https://0x0.st/HDds.mp4" type="video/mp4">
-</video>
 </p>
 
 
 [![HERE is a Demo video how it Looks](https://0x0.st/HDds.mp4)](https://0x0.st/HDds.mp4)
 
+   <video width="100%" controls>
+  <source src="https://0x0.st/HDds.mp4" type="video/mp4">
+   </video>
 
 
 # Dotfiles
